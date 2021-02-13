@@ -23,9 +23,31 @@ html{
           color: rgb(82, 82, 82);
         }
 
+        h2{
+          font-size: 20px ;
+        }
+
 section.p{
     line-height: -2.6;
 }
+
+li {
+text-align: center;
+ list-style-position: outside;
+ text-align: left;
+ width: 90%;
+
+}
+
+ol
+{
+position: relative;
+padding-left: 20%;
+padding-right: 20%;
+
+
+}
+
 
   /* This is the HufflePuff logo's fade in */      
 img {
@@ -131,6 +153,7 @@ body {
 
 .sbmt{
     padding-top: 70px;
+    text-align: center;
 }
   .button {
     display: inline-block;
